@@ -1,0 +1,4 @@
+repository "GameDev_Artur_Komaristyi_BSBO-06-21@emoray@cloud"
+  path "/"
+    br "/main"
+    co "/main"
